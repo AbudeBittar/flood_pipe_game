@@ -1,0 +1,7 @@
+logic\GameDataTest.class
+logic\FakeGUI.class
+logic\GameTest.class
+logic\helpers\HelperTest.class
+logic\cells\CellGeneratorTest.class
+logic\cells\CellsTests.class
+logic\helpers\PositionTest.class

@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact name="pp_FloodPipe_Al_Bittar:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pp_FloodPipe_Al_Bittar_jar</output-path>
+    <root id="root">
+      <element id="archive" name="pp_FloodPipe_Al_Bittar.jar">
+        <element id="module-output" name="pp_FloodPipe_Al_Bittar" />
+      </element>
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:11.0.2" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:win:11.0.2" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:11.0.2" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:11.0.2" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:win:11.0.2" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:11.0.2" />
+      <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.8.8" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:win:11.0.2" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:win:11.0.2" />
+    </root>
+  </artifact>
+</component>
